@@ -37,10 +37,3 @@ fraud-detection-banking <br>
 You can download the dataset from Kaggle and use it to train the model. <br>
 Link : https://www.kaggle.com/datasets?search=credit_card_data.csv <br>
 
-# License
-This project is licensed under the MIT License - see the LICENSE file for details. 
-
-
-
-
-NumPy <br>
